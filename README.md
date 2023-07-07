@@ -1,7 +1,7 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
 # Project Summary
-
+I Forked and Cloned a Repo.
 In this project, we'll complete the functionality of a social media platform by using `axios` in a `react` project. Majority of the application has already been built out for you. Take some time before starting to familarize yourself with the component structure. The platform we'll be building out is a scaled down version of twitter and we'll focus on the functionality for fetching all the DevMountain posts, creating new posts, editing existing posts, and deleting existing posts.
 
 This is a live API, please be respectful and mindful of what you post.
